@@ -27,7 +27,7 @@ img{
 }
 p{
     color: black;
-    ont-size: 1.4rem;
+    font-size: 1.4rem;
     margin-top: 5px;
     line-height: 2.5rem;
     font-weight: 300;
@@ -279,9 +279,6 @@ p{
  
 
 /* Service Section */
-#serrvices{
-
-}
 #services .services{
     font-size: 50px;
     flex-direction: column;
@@ -751,9 +748,6 @@ p{
 #footer .social-icon{
     justify-content: center;
     align-items: center;
-    
-}
-#footer .social-item{
     
 }
 /* End Footer */
