@@ -583,14 +583,15 @@ p{
 
 }
 #footer .social-icon{
-    margin-left: 135px;
+    align-items: center;
     display: flex;
     margin-bottom: 30px;
+    justify-content: center;
 }
 #footer .social-item{
     height: 50px;
     width: 50px;
-    margin: 0 5px;
+    
 }
 #footer .social-item img{
     filter: grayscale(1);
@@ -748,10 +749,12 @@ p{
 }
 /* Footer */
 #footer .social-icon{
-    margin-left: 350px;
+    justify-content: center;
+    align-items: center;
+    
 }
 #footer .social-item{
-    margin-left: 20px;
+    
 }
 /* End Footer */
 
@@ -788,7 +791,8 @@ p{
     margin: 1.5%;
 }
 #footer .social-icon{
-    margin-left: 520px;
+    justify-content: center;
+    align-items: center;
 }
 
 }
